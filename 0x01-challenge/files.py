@@ -3,7 +3,7 @@
 import os
 
 mainRoot = "/home/kidus/Documents/Projects/Fix_My_Code_Challenge/0x01-challenge"
-dir = "./blog"
+dir = "./react-blog"
 '''
 for root, dirs, files in os.walk(dir):
 	for name in files:
